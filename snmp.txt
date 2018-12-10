@@ -1,0 +1,3 @@
+ snmpwalk  -c public -v 2c 127.0.0.1 .1.3.6.1.4.1.8072.1.3.2.3.1.1.7.98.103.112.45.109.111
+ snmpgetnext -c public -v 2c 127.0.0.1 .1.3.6.1.4.1.8072.1.3.2.3.1.1.7.98.103.112.45.109.111.110.1
+ snmptranslate -On 'NET-SNMP-EXTEND-MIB::nsExtendOutput1Line."bgp-mon".1'

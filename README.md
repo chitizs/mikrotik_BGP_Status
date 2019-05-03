@@ -1,4 +1,4 @@
-# MK_BGP_Status
+# Mikrotik_BGP_Status
 BGP status of Mikrotik(MK) Devices
 
 This project deals with Generating Alert for BGP status of Mikrotik Routers.

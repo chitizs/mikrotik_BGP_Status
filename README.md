@@ -16,5 +16,5 @@ Also, an Inventory file with IP address of BGP routers is populated.
 + If there is a problem then info about the problematic peers is/are returned.
 
 
-Note, install librouteros library using "pip3 install librouteros"
+Note: Install librouteros library using "pip3 install librouteros"
 
